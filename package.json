@@ -1,0 +1,11 @@
+{
+  "name"         : "my-first-scraper",
+  "version"      : "0.0.1",
+  "description"  : "starting small",
+  "main"         : "getit.js",
+  "author"       : "Alex Rice",
+  "dependencies" : {
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}

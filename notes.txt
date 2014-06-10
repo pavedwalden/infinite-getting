@@ -1,0 +1,303 @@
+These are the post ids of each of the numbered photos at https://twitter.com/ricealexanderb/media
+
+21 - "476173253996584960"
+20 - "476173180281696258",
+19 - "476173106554236930",
+18 - "476173007740624897",
+17 - "476172921279242243",
+16 - "476172801062105088",
+15 - "476172620467949568",
+14 - "476172503572692995",
+13 - "476172417295855616",
+12 - "476172336362561536",
+11 - "476172245820112896",
+10 - "476172197405270016",
+09 - "476171944060936192",
+08 - "476171619308556288",
+07 - "476171468644962305",
+06 - "476171396272254976",
+05 - "476171318484692993",
+04 - "476171258225098752",
+03 - "476171197294465024",
+02 - "476171138993635329"
+01 - "476171063483588608"
+
+Upon scrolling to the bottom of the page, the following get request was sent:
+
+
+{"max_id":"476171063483588607","has_more_items":false,"items_html":"      
+
+
+
+
+  
+
+\u003cdiv class=\"Grid\" data-component-term=\"tweet\" role=\"presentation\"\u003e
+  \u003cdiv class=\"Grid-cell
+      u-size3of3
+\" data-test-selector=\"ProfileTimelineTweet\" role=\"presentation\"\u003e
+    \u003cdiv class=\"StreamItem js-stream-item\" role=\"listitem\" data-item-id=\"476171063483588608\" id=\"stream-item-tweet-476171063483588608\" data-item-type=\"tweet\"\u003e
+  \u003cdiv class=\"ProfileTweet u-textBreak js-tweet js-stream-tweet js-actionable-tweet
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   has-cards 
+  \"
+  
+data-feedback-key=\"stream_status_476171063483588608\"
+data-tweet-id=\"476171063483588608\"
+
+
+data-item-id=\"476171063483588608\"
+
+
+ data-screen-name=\"ricealexanderb\" data-name=\"Alex\" data-user-id=\"2557811934\"
+
+
+
+  data-card-type=\"photo\"
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ data-you-follow=\"false\"
+ data-you-block=\"false\"
+\u003e
+
+  
+
+  
+    \u003cdiv class=\"ProfileTweet-header u-cf\"\u003e
+
+      
+
+      
+
+        
+        
+        
+
+
+
+      \u003cdiv class=\"ProfileTweet-authorDetails\"\u003e
+          \u003ca class=\"ProfileTweet-originalAuthorLink u-linkComplex js-nav js-user-profile-link\"
+     href=\"\/ricealexanderb\"
+     data-user-id=\"2557811934\"\u003e
+    \u003cimg class=\"ProfileTweet-avatar js-action-profile-avatar\" src=\"https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_6_normal.png\" alt=\"\"\u003e
+    \u003cspan class=\"ProfileTweet-originalAuthor u-pullLeft u-textTruncate js-action-profile-name\"\u003e
+      \u003cb class=\"ProfileTweet-fullname u-linkComplex-target\"\u003eAlex\u003c\/b\u003e
+      \u003cspan class=\"ProfileTweet-screenname u-inlineBlock u-dir\" dir=\"ltr\"\u003e
+        \u003cspan class=\"at\"\u003e@\u003c\/span\u003ericealexanderb
+      \u003c\/span\u003e
+    \u003c\/span\u003e
+  \u003c\/a\u003e
+
+        \u003cspan class=\"u-pullLeft\"\u003e&nbsp;&middot;&nbsp;\u003c\/span\u003e
+        \u003cspan class=\"u-pullLeft\"\u003e
+          \u003ca class=\"ProfileTweet-timestamp js-permalink js-nav js-tooltip\"
+  href=\"\/ricealexanderb\/status\/476171063483588608\"
+  title=\"6:16 PM - 9 Jun 2014\"
+\u003e
+  \u003cspan class=\"js-short-timestamp js-relative-timestamp\"
+    data-time=\"1402363003\"
+    data-long-form=\"true\"\u003e
+    57m
+  \u003c\/span\u003e
+\u003c\/a\u003e
+
+        \u003c\/span\u003e
+      \u003c\/div\u003e
+    \u003c\/div\u003e
+
+    
+
+    \u003cdiv class=\"ProfileTweet-contents\"\u003e
+      
+      \u003cp class=\"ProfileTweet-text js-tweet-text u-dir\"
+        
+        dir=\"ltr\"\u003eOne \u003ca href=\"http:\/\/t.co\/n7ZHHGTLxe\" class=\"twitter-timeline-link u-isHiddenVisually\" data-pre-embedded=\"true\" dir=\"ltr\" \u003epic.twitter.com\/n7ZHHGTLxe\u003c\/a\u003e\u003c\/p\u003e
+
+
+      
+        \u003cdiv class=\"js-tweet-details-fixer tweet-details-fixer\"\u003e
+
+
+  
+
+    
+
+
+    
+          \u003cdiv class=\"TwitterPhoto js-media-container\"\u003e
+        \u003cdiv class=\"TwitterPhoto-container\" data-card-url=\"\/\/twitter.com\/ricealexanderb\/status\/476171063483588608\/photo\/1\" data-card-type=\"photo\" data-element-context=\"platform_photo_card\"\u003e
+  \u003cdiv class=\"TwitterPhoto-media\"\u003e
+        \u003ca class=\"TwitterPhoto-link media-thumbnail twitter-timeline-link\" href=\"\/\/twitter.com\/ricealexanderb\/status\/476171063483588608\/photo\/1\" data-url=\"https:\/\/pbs.twimg.com\/media\/BpuzDuhCQAAXEhB.jpg:large\" data-resolved-url-large=\"https:\/\/pbs.twimg.com\/media\/BpuzDuhCQAAXEhB.jpg:large\"\u003e
+  \u003cimg class=\"TwitterPhoto-mediaSource\"
+    src=\"https:\/\/pbs.twimg.com\/media\/BpuzDuhCQAAXEhB.jpg:large\"
+    alt=\"Embedded image permalink\"
+      style=\"margin-top: -41.0px\"
+    lazyload=\"1\"
+  \u003e
+\u003c\/a\u003e
+
+  \u003c\/div\u003e
+  
+\u003c\/div\u003e
+
+    \u003c\/div\u003e
+
+
+
+  \u003cdiv class=\"js-machine-translated-tweet-container\"\u003e\u003c\/div\u003e
+\u003c\/div\u003e
+
+
+      
+
+      
+      
+
+\u003cul class=\"ProfileTweet-actionList u-cf js-actions\"\u003e
+  
+  \u003cli class=\"ProfileTweet-action ProfileTweet-action--reply\"\u003e
+    \u003cbutton class=\"ProfileTweet-actionButton u-textUserColorHover js-actionButton js-actionReply js-tooltip\"
+      data-modal=\"tweet-reply\"
+      type=\"button\"
+      title=\"Reply\"\u003e
+      \u003cspan class=\"Icon Icon--reply\"\u003e\u003c\/span\u003e
+      \u003cspan class=\"u-isHiddenVisually\"\u003eReply\u003c\/span\u003e
+    \u003c\/button\u003e\u003ca class=\"ProfileTweet-actionCount u-textUserColorHover js-nav js-actionCount js-tooltip ProfileTweet-actionCount--isZero\"
+          aria-hidden=\"true\"
+          tabindex=\"-1\"
+        title=\"Replied to 0 times\"
+        href=\"\/ricealexanderb\/status\/476171063483588608\"
+        data-tweet-stat-count=\"0\"\u003e
+          \u003cspan class=\"ProfileTweet-actionCountForAria u-isHiddenVisually\"\u003eReplied to 0 times\u003c\/span\u003e
+          \u003cspan class=\"ProfileTweet-actionCountForPresentation\" aria-hidden=\"true\"\u003e\u003c\/span\u003e
+      \u003c\/a\u003e
+
+  \u003c\/li\u003e
+
+  
+  \u003cli class=\"ProfileTweet-action ProfileTweet-action--retweet js-toggle-state js-toggle-rt\"\u003e
+    \u003cbutton class=\"ProfileTweet-actionButton  js-actionButton js-actionRetweet js-tooltip\"
+        title=\"Retweet\"
+      data-modal=\"tweet-retweet\"
+      type=\"button\"\u003e
+      \u003cspan class=\"Icon Icon--retweet\"\u003e\u003c\/span\u003e
+      \u003cspan class=\"u-isHiddenVisually\"\u003eRetweet\u003c\/span\u003e
+    \u003c\/button\u003e\u003cbutton class=\"ProfileTweet-actionButtonUndo js-actionButton js-actionRetweet js-tooltip\"
+      data-modal=\"tweet-retweet\"
+      title=\"Undo retweet\"
+      type=\"button\"\u003e
+      \u003cspan class=\"Icon Icon--retweet\"\u003e\u003c\/span\u003e
+      \u003cspan class=\"u-isHiddenVisually\"\u003eRetweeted\u003c\/span\u003e
+    \u003c\/button\u003e\u003cbutton class=\"ProfileTweet-actionCount js-actionCount js-tooltip ProfileTweet-actionCount--isZero\"
+        
+          aria-hidden=\"true\"
+          tabindex=\"-1\"
+        data-activity-popup-title=\"Retweeted 0 times\"
+        data-tweet-stat-count=\"0\"
+        title=\"Retweeted 0 times\"
+        type=\"button\"\u003e
+          \u003cspan class=\"ProfileTweet-actionCountForAria u-isHiddenVisually\"\u003eRetweeted 0 times\u003c\/span\u003e
+          \u003cspan class=\"ProfileTweet-actionCountForPresentation\" aria-hidden=\"true\"\u003e\u003c\/span\u003e
+      \u003c\/button\u003e
+
+  \u003c\/li\u003e
+
+  
+  \u003cli class=\"ProfileTweet-action ProfileTweet-action--favorite js-toggle-state\"\u003e
+    \u003cbutton class=\"ProfileTweet-actionButton js-actionButton js-actionFavorite js-tooltip\"
+      title=\"Favorite\"
+      type=\"button\"\u003e
+      \u003cspan class=\"Icon Icon--favorite\"\u003e\u003c\/span\u003e
+      \u003cspan class=\"u-isHiddenVisually\"\u003eFavorite\u003c\/span\u003e
+    \u003c\/button\u003e\u003cbutton class=\"ProfileTweet-actionButtonUndo u-linkClean js-actionButton js-actionFavorite js-tooltip\"
+      title=\"Undo favorite\"
+      type=\"button\"\u003e
+      \u003cspan class=\"Icon Icon--favorite\"\u003e\u003c\/span\u003e
+      \u003cspan class=\"u-isHiddenVisually\"\u003eFavorited\u003c\/span\u003e
+    \u003c\/button\u003e\u003cbutton class=\"ProfileTweet-actionCount js-actionCount js-tooltip ProfileTweet-actionCount--isZero\"
+        
+          aria-hidden=\"true\"
+          tabindex=\"-1\"
+        data-activity-popup-title=\"Favorited 0 times\"
+        data-tweet-stat-count=\"0\"
+        title=\"Favorited 0 times\"
+        type=\"button\"\u003e
+          \u003cspan class=\"ProfileTweet-actionCountForAria u-isHiddenVisually\"\u003eFavorited 0 times\u003c\/span\u003e
+          \u003cspan class=\"ProfileTweet-actionCountForPresentation\" aria-hidden=\"true\"\u003e\u003c\/span\u003e
+      \u003c\/button\u003e
+
+  \u003c\/li\u003e
+
+  
+
+  
+    \u003cli class=\"ProfileTweet-action ProfileTweet-action--more js-more-tweet-actions\"\u003e
+      \u003cdiv class=\"dropdown\"\u003e
+  \u003cbutton class=\"ProfileTweet-actionButton u-textUserColorHover dropdown-toggle js-tooltip js-dropdown-toggle\"
+    type=\"button\"
+    title=\"More\"\u003e
+      \u003cspan class=\"Icon Icon--dots\"\u003e\u003c\/span\u003e
+      \u003cspan class=\"u-isHiddenVisually\"\u003eMore\u003c\/span\u003e
+  \u003c\/button\u003e
+  
+\u003cdiv class=\"dropdown-menu\"\u003e
+  \u003cdiv class=\"dropdown-caret\"\u003e
+    \u003cdiv class=\"caret-outer\"\u003e\u003c\/div\u003e
+    \u003cdiv class=\"caret-inner\"\u003e\u003c\/div\u003e
+  \u003c\/div\u003e
+  \u003cul\u003e
+      \u003cli class=\"embed-link js-actionEmbedTweet\" data-nav=\"embed_tweet\"\u003e
+        \u003cbutton type=\"button\" class=\"dropdown-link\"\u003eEmbed Tweet\u003c\/button\u003e
+      \u003c\/li\u003e
+      
+    
+  \u003c\/ul\u003e
+\u003c\/div\u003e
+
+\u003c\/div\u003e
+
+    \u003c\/li\u003e
+
+  
+\u003c\/ul\u003e
+
+    \u003c\/div\u003e
+
+\u003c\/div\u003e
+
+\u003c\/div\u003e
+  \u003c\/div\u003e
+\u003c\/div\u003e
+
+
+      
+"}
+
+
+
+
+
+
+The "max_id" value of "476171063483588607" is one less than the next tweet to be fetched (id 476171063483588608)
+
+has_more_items is set to false because there's only one more tweet left to fetch. On long-running accounts, I've only ever seen it set to 'true', becuase I never get to the end of their history.
